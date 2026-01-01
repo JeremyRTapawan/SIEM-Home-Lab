@@ -1,1 +1,1 @@
-# SIEM-Home-Lab-Mini-SOC-
+# SIEM-Home-Lab
