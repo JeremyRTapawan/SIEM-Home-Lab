@@ -6,7 +6,7 @@ This project simulates a **Security Operations Center (SOC)** environment using 
 ---
 
 ## Tools & Technologies
-- **SIEM Platform:** Splunk Enterprise (Free) *(or Elastic Stack)*
+- **SIEM Platform:** Splunk Enterprise
 - **Operating Systems:** Linux (Ubuntu), Windows
 - **Virtualization:** Oracle VirtualBox
 - **Log Sources:**
