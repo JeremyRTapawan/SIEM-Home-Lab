@@ -73,5 +73,4 @@ Custom SIEM searches and alerts were created to identify suspicious authenticati
 
 ## Notes
 This project was conducted in a **controlled lab environment** for educational purposes. All systems used private IP addressing and simulated activity only.
-All systems operate within a **private LAN environment** using non-routable IP addressing.
 
