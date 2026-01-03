@@ -1,4 +1,4 @@
-# SIEM Home Lab/SSH Detections & Alerts
+# SIEM Home Lab
 
 ## Overview
 This project simulates a **Security Operations Center (SOC)** environment using a Security Information and Event Management (SIEM) platform to centralize logs, detect suspicious activity, and perform basic incident triage. The lab mirrors real-world SOC workflows used by enterprise security teams.
