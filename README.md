@@ -27,7 +27,6 @@ This project simulates a **Security Operations Center (SOC)** environment using 
 The lab consists of a centralized SIEM server collecting logs from multiple endpoints within an isolated internal network.
 ![SIEM](https://github.com/user-attachments/assets/6fb58430-d766-4e15-b569-7e560887208c)
 
-All systems operate within a **private LAN environment** using non-routable IP addressing.
 
 ---
 
@@ -74,3 +73,5 @@ Custom SIEM searches and alerts were created to identify suspicious authenticati
 
 ## Notes
 This project was conducted in a **controlled lab environment** for educational purposes. All systems used private IP addressing and simulated activity only.
+All systems operate within a **private LAN environment** using non-routable IP addressing.
+
